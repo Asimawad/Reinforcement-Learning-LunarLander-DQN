@@ -75,7 +75,7 @@ This project implements a Deep Q-Network (DQN) to solve the LunarLander-v2 envir
 2. **Stability**: Replay buffer and target network significantly stabilized training.
 
 **Learned Policy**:
-![Policy](visuals/LunarLander_policy.mp4)
+[Policy](visuals/LunarLander_policy.mp4)
 
 ---
 
