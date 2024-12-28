@@ -88,7 +88,7 @@ This project implements a Deep Q-Network (DQN) to solve the LunarLander-v2 envir
 
 2. **Run Training**:
    ```bash
-   python lunarlander_dqn.py
+   python LunaLanderQlearn.py
    ```
 
 3. **Visualize Results**:
