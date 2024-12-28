@@ -59,7 +59,7 @@ This project implements a Deep Q-Network (DQN) to solve the LunarLander-v2 envir
 - **Evaluation Period**: Every 10 episodes.
 - **Train Frequency**: After every timestep.
 
-**Plot Placeholder**:
+**Episode Returns**:
 ![Training Performance](visuals/LunarLander-DQN.png)
 
 ---
@@ -74,8 +74,8 @@ This project implements a Deep Q-Network (DQN) to solve the LunarLander-v2 envir
 1. **Exploration Efficiency**: The extended epsilon decay allowed the agent to explore diverse strategies before exploiting learned policies.
 2. **Stability**: Replay buffer and target network significantly stabilized training.
 
-**Episode Returns Plot Placeholder**:
-![Episode Returns](visuals/LunarLander_policy.png)
+**Learned Policy**:
+![Policy](visuals/LunarLander_policy.mp4)
 
 ---
 
